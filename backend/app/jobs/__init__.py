@@ -1,0 +1,4 @@
+"""Celery worker and background task queue package."""
+from app.jobs.celery_app import celery_app
+
+__all__ = ["celery_app"]

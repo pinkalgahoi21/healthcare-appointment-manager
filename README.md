@@ -2,7 +2,7 @@
 
 A production-grade full-stack healthcare appointment and clinical follow-up coordination platform built with **FastAPI**, **PostgreSQL 16**, **Redis 7**, **Celery**, **React 18**, **TypeScript**, and **Tailwind CSS**.
 
-🚀 **Live Demo:** [Healthcare Appointment Manager](https://healthcare-appointment-manager.vercel.app/login)
+🚀 **Live Demo:** [Healthcare Appointment Manager](https://healthcare-appointment-manager-xi-gray.vercel.app/)
 
 ---
 
